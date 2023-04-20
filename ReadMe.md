@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'am software engineer <br>
-I'am looking to be data engineer
+I am Full stack software engineer, with more than 7 years of experience in Java<br>
+Future Data engineer<br>
+Fun of DevOps, Cloud and Big data<br>
 
 
 ## 🌐 Socials:
@@ -46,6 +47,3 @@ I'am looking to be data engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbnrahhal&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saidbnrahhal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
